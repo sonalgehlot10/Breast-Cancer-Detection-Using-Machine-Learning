@@ -6,7 +6,7 @@
 ---
 
 ## Overview
-This project was developed as my **final-year capstone project** during my Bachelor’s in Information Technology.  
+This project was developed as my **final-year project** during my Bachelor’s in Information Technology.  
 It focuses on building a predictive model that classifies breast cancer tumors as **benign** or **malignant** using machine learning algorithms such as **Naïve Bayes** and **K-Nearest Neighbors (KNN)**.  
 
 The project includes a **web interface** that allows users to input clinical parameters and receive immediate predictions, integrating both the **ML model** and **web technologies** for accessibility and usability.
